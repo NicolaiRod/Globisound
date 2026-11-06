@@ -25,6 +25,10 @@
 
 ## ☕ Support the Project
 
+
+## Credits & Third-Party Libraries
+* **VLC Media Player (libVLC):** Used under the terms of the [GNU Lesser General Public License (LGPL v2.1)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html). VLC media player is a trademark of VideoLAN.
+
 If you enjoy using **Globisound**, consider supporting the project:
 
 * 💖 Open a GitHub issue for suggestions or bug reports.
