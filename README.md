@@ -12,11 +12,23 @@
 - **🌐 Multi-Language Interface:** Available in Danish, English, German, Spanish, and French.
 - **🎨 Customizable Themes:** Choose between multiple color themes (Dark Mode, Cyberpunk, Ocean Blue, etc.).
 
+-----------------------
+## What's New in v1.1.0
+
+- **🌍 Features & Improvements
+- **Real-Time Day/Night Terminator on 3D Globe:** Added a dynamic interactive 3D globe including day/night light shader. The shadow line automatically updates based on current UTC solar calculations to show real-time daylight and dusk worldwide.
+- **Alphabetical Station Sorting:** Radio stations are now sorted alphabetically by default upon loading, making it much easier to browse and find your favorite channels.
+- **Background Flag Prefetching:** Flags are now fetched asynchronously on-demand, ensuring the UI stays completely smooth and responsive without freezing.
+
+## 🐛 Bug Fixes & Stability
+* Resolved closed event loop warnings during background tasks.
+-----------------------
+
 ## 🚀 Installation & Download
 
 > **Note for Windows Users:** Because this app is independently developed without a paid commercial certificate, Windows Defender SmartScreen might show a warning. Click **"More info"** and then **"Run anyway"** to proceed.
 
-1. Download the latest `Globisound_Setup.exe` from [GitHub Releases](https://github.com/NicolaiRod/Globisound/releases), or https://villaen.dk/Globisound_Setup.exe
+1. Download the latest `Globisound_Setup.exe` from [GitHub Releases](https://github.com/NicolaiRod/Globisound/releases)
 2. Run the installer and follow the on-screen instructions.
 
 ## 📜 Credits & Third-Party Libraries
