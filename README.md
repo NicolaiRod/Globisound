@@ -15,7 +15,7 @@
 -----------------------
 ## What's New in v1.1.0
 
-- **🌍 Features & Improvements
+## 🌍 Features & Improvements
 - **Real-Time Day/Night Terminator on 3D Globe:** Added a dynamic interactive 3D globe including day/night light shader. The shadow line automatically updates based on current UTC solar calculations to show real-time daylight and dusk worldwide.
 - **Alphabetical Station Sorting:** Radio stations are now sorted alphabetically by default upon loading, making it much easier to browse and find your favorite channels.
 - **Background Flag Prefetching:** Flags are now fetched asynchronously on-demand, ensuring the UI stays completely smooth and responsive without freezing.
